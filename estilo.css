@@ -26,8 +26,15 @@ div {
     padding: 8px;
 }
 
+
 footer {
     color: white;
     text-align: center;
     font-style: italic;
+    font-size: 8px;
+}
+
+.white{
+    color: white;
+    font-size: 8px;
 }
